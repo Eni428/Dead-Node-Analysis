@@ -251,4 +251,4 @@ This analyses **WEIGHT2.txt** and identifies which hidden neurons should be kept
 ---
 
 
-If you use this repository in your research, please cite the corresponding publication once available.
+If you use this repository in your research, please cite the corresponding publication once availabl
