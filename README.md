@@ -241,14 +241,7 @@ PrunedNeuronAnalyzer.java
 
 This analyses **WEIGHT2.txt** and identifies which hidden neurons should be kept or removed according to their importance.
 
----
 
-# Software Requirements
-
-- Java JDK 11 or later
-- Eclipse IDE (recommended)
-
----
 
 
 If you use this repository in your research, please cite the corresponding publication once availabl
