@@ -1,0 +1,161 @@
+NETWORK RESPONSE:
+CHARACTERIZED AS:
+A1 0.257243
+A2 0.767000
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_1.A1
+CHARACTERIZED AS:
+A1 0.085971
+A2 0.912175
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_10.A1
+CHARACTERIZED AS:
+A1 0.086019
+A2 0.912185
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_11.A1
+CHARACTERIZED AS:
+A1 0.085951
+A2 0.912190
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_12.A1
+CHARACTERIZED AS:
+A1 0.085697
+A2 0.912455
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_13.A1
+CHARACTERIZED AS:
+A1 0.085990
+A2 0.912174
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_14.A1
+CHARACTERIZED AS:
+A1 0.085961
+A2 0.912174
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_15.A1
+CHARACTERIZED AS:
+A1 0.085977
+A2 0.912162
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_16.A1
+CHARACTERIZED AS:
+A1 0.085955
+A2 0.912182
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_17.A1
+CHARACTERIZED AS:
+A1 0.086082
+A2 0.912079
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_18.A1
+CHARACTERIZED AS:
+A1 0.085834
+A2 0.912310
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_19.A1
+CHARACTERIZED AS:
+A1 0.088929
+A2 0.909600
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_2.A1
+CHARACTERIZED AS:
+A1 0.249020
+A2 0.773350
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_20.A1
+CHARACTERIZED AS:
+A1 0.091108
+A2 0.907231
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_3.A1
+CHARACTERIZED AS:
+A1 0.086336
+A2 0.911777
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_4.A1
+CHARACTERIZED AS:
+A1 0.086074
+A2 0.912072
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_5.A1
+CHARACTERIZED AS:
+A1 0.086024
+A2 0.912088
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_6.A1
+CHARACTERIZED AS:
+A1 0.085967
+A2 0.912187
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_7.A1
+CHARACTERIZED AS:
+A1 0.085974
+A2 0.912218
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_8.A1
+CHARACTERIZED AS:
+A1 0.085881
+A2 0.912270
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Rectangle_147x168_9.A1
+CHARACTERIZED AS:
+A1 0.786987
+A2 0.270352
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_1.A2
+CHARACTERIZED AS:
+A1 0.134448
+A2 0.866861
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_10.A2
+CHARACTERIZED AS:
+A1 0.121983
+A2 0.888253
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_11.A2
+CHARACTERIZED AS:
+A1 0.130701
+A2 0.874236
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_12.A2
+CHARACTERIZED AS:
+A1 0.118521
+A2 0.886559
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_13.A2
+CHARACTERIZED AS:
+A1 0.127653
+A2 0.877890
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_14.A2
+CHARACTERIZED AS:
+A1 0.130154
+A2 0.876365
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_15.A2
+CHARACTERIZED AS:
+A1 0.127532
+A2 0.875023
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_16.A2
+CHARACTERIZED AS:
+A1 0.126068
+A2 0.875231
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_17.A2
+CHARACTERIZED AS:
+A1 0.135636
+A2 0.868931
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_18.A2
+CHARACTERIZED AS:
+A1 0.108875
+A2 0.892298
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_19.A2
+CHARACTERIZED AS:
+A1 0.744357
+A2 0.313695
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_2.A2
+CHARACTERIZED AS:
+A1 0.831837
+A2 0.230200
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_20.A2
+CHARACTERIZED AS:
+A1 0.906124
+A2 0.128569
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_3.A2
+CHARACTERIZED AS:
+A1 0.187503
+A2 0.817875
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_4.A2
+CHARACTERIZED AS:
+A1 0.138743
+A2 0.867654
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_5.A2
+CHARACTERIZED AS:
+A1 0.130649
+A2 0.875570
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_6.A2
+CHARACTERIZED AS:
+A1 0.132035
+A2 0.872969
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_7.A2
+CHARACTERIZED AS:
+A1 0.130766
+A2 0.879606
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_8.A2
+CHARACTERIZED AS:
+A1 0.139010
+A2 0.864897
+source file: C:\Users\User\eclipse-workspace\NEWTESTNET\src\Square VS Rectangle\HID = 10\38 images\test\Square_147x168_9.A2
